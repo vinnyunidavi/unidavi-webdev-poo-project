@@ -14,6 +14,8 @@
 
 ## Tarefas
 
+### Obrigatórias
+
 * Criar projeto git com nome `unidavi-webdev-poo-project` na conta do aluno no github 
 * Criar um commit com o resultado da `Entrega 1 do projeto final` publicado no classroom em novembro
 * Criar um commit com orientações no arquivo README.md de como executar a entrega 1 do projeto
@@ -34,14 +36,17 @@
 * Criar um commit com uma cópia do arquivo do job jenkins, `config.xml`, armazenada em `src/jenkins/jobs/project-dev-site`
 * Criar um job jenkins chamado `PROJECT-DEV-DEPLOY` que versiona o projeto e publica em repositório local
 * Criar um commit com uma cópia do arquivo do job jenkins, `config.xml`, armazenada em `src/jenkins/jobs/project-dev-deploy`
+* Criar um commit com resolução de todas as issues relatadas pelo sonarqube
+* Criar um commit com revisão de código de cada classe conforme ferramenta de inspeção criada na semana 1
+
+### Opcionais 
+
 * Criar um commit com novo código ou código refatorado para utilização dos métodos forEach e removeIf da Collections API
 * Criar um commit com novo código ou código refatorado para utilização da Streams API
 * Criar um commit com novo código ou código refatorado para utilização da nova biblioteca de classes para datas e horários (`java.time`)
 * Criar um commit com novo código ou código refatorado para codificação e utilização de um (1) padrão de projeto da categoria de criação
 * Criar um commit com novo código ou código refatorado para codificação e utilização de um (1) padrão de projeto da categoria estrutural
 * Criar um commit com novo código ou código refatorado para codificação e utilização de dois (2) padrão de projeto da categoria comportamental
-* Criar um commit com resolução de todas as issues relatadas pelo sonarqube
-* Criar um commit com revisão de código de cada classe conforme ferramenta de inspeção criada na semana 1
 
 ## Entrega
 > Importante: cada aluno deve fazer a entrega em sua própria conta 
