@@ -34,13 +34,13 @@
 * Criar um commit com uma cópia do arquivo do job jenkins, `config.xml`, armazenada em `src/jenkins/jobs/project-dev-build`
 * Criar um job jenkins chamado `PROJECT-DEV-SITE` que gera o site do projeto
 * Criar um commit com uma cópia do arquivo do job jenkins, `config.xml`, armazenada em `src/jenkins/jobs/project-dev-site`
-* Criar um job jenkins chamado `PROJECT-DEV-DEPLOY` que versiona o projeto e publica em repositório local
-* Criar um commit com uma cópia do arquivo do job jenkins, `config.xml`, armazenada em `src/jenkins/jobs/project-dev-deploy`
 * Criar um commit com resolução de todas as issues relatadas pelo sonarqube
 * Criar um commit com revisão de código de cada classe conforme ferramenta de inspeção criada na semana 1
 
 ### Opcionais 
 
+* Criar um job jenkins chamado `PROJECT-DEV-DEPLOY` que versiona o projeto e publica em repositório local
+* Criar um commit com uma cópia do arquivo do job jenkins, `config.xml`, armazenada em `src/jenkins/jobs/project-dev-deploy`
 * Criar um commit com novo código ou código refatorado para utilização dos métodos forEach e removeIf da Collections API
 * Criar um commit com novo código ou código refatorado para utilização da Streams API
 * Criar um commit com novo código ou código refatorado para utilização da nova biblioteca de classes para datas e horários (`java.time`)
